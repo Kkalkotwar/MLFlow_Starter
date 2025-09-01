@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/333100380344929225/10a83b686bcb48a6aac8066aa29a0fa2/artifacts
+end_time: 1756751755976
+entry_point_name: ''
+experiment_id: '333100380344929225'
+lifecycle_stage: active
+run_id: 10a83b686bcb48a6aac8066aa29a0fa2
+run_name: amazing-sponge-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756751724126
+status: 3
+tags: []
+user_id: KUNAL

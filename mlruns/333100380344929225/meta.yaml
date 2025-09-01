@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/333100380344929225
+creation_time: 1756751723274
+experiment_id: '333100380344929225'
+last_update_time: 1756751723274
+lifecycle_stage: active
+name: Logistic_Regression_Experiment_Iris_Model

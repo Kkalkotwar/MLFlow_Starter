@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/333100380344929225/33874ba7079041e5834b568e63952675/artifacts
+end_time: 1756754129919
+entry_point_name: ''
+experiment_id: '333100380344929225'
+lifecycle_stage: active
+run_id: 33874ba7079041e5834b568e63952675
+run_name: selective-kit-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756754122187
+status: 3
+tags: []
+user_id: KUNAL
