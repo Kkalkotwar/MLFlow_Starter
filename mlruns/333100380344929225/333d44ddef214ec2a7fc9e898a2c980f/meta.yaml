@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/333100380344929225/333d44ddef214ec2a7fc9e898a2c980f/artifacts
+end_time: 1756833696554
+entry_point_name: ''
+experiment_id: '333100380344929225'
+lifecycle_stage: active
+run_id: 333d44ddef214ec2a7fc9e898a2c980f
+run_name: useful-worm-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756833679533
+status: 3
+tags: []
+user_id: KUNAL
