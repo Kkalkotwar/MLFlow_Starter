@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4be7b9188162483189a3bbff776e8bcf/artifacts
+end_time: 1757006480754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4be7b9188162483189a3bbff776e8bcf
+run_name: fun-boar-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005347389
+status: 3
+tags: []
+user_id: KUNAL
