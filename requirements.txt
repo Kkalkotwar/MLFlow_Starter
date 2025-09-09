@@ -3,3 +3,6 @@ pandas
 numpy
 ipykernel
 scikit-learn
+keras
+tensorflow
+hyperopt
