@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/149924152152090520/fdcf01445b494b348d9f1647b20b58b1/artifacts
+end_time: 1757439239205
+entry_point_name: ''
+experiment_id: '149924152152090520'
+lifecycle_stage: active
+run_id: fdcf01445b494b348d9f1647b20b58b1
+run_name: upbeat-squirrel-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757439051557
+status: 3
+tags: []
+user_id: KUNAL

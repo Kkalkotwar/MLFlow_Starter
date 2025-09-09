@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/149924152152090520/57c7a7a024084cb4a625acb161e8267a/artifacts
+end_time: 1757439273518
+entry_point_name: ''
+experiment_id: '149924152152090520'
+lifecycle_stage: active
+run_id: 57c7a7a024084cb4a625acb161e8267a
+run_name: auspicious-hound-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757439255046
+status: 3
+tags: []
+user_id: KUNAL

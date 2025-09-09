@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/149924152152090520/afc945cdb0554b54af499cf77c15d69d/artifacts
+end_time: 1757439254915
+entry_point_name: ''
+experiment_id: '149924152152090520'
+lifecycle_stage: active
+run_id: afc945cdb0554b54af499cf77c15d69d
+run_name: luxuriant-slug-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757439239338
+status: 3
+tags: []
+user_id: KUNAL

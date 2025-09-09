@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/149924152152090520/ef6e9b9a210944eca0b5327b21d739f2/artifacts
+end_time: 1757439290207
+entry_point_name: ''
+experiment_id: '149924152152090520'
+lifecycle_stage: active
+run_id: ef6e9b9a210944eca0b5327b21d739f2
+run_name: languid-shrimp-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757439273660
+status: 3
+tags: []
+user_id: KUNAL

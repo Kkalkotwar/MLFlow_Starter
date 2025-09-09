@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/149924152152090520
+creation_time: 1757437413085
+experiment_id: '149924152152090520'
+last_update_time: 1757437413085
+lifecycle_stage: active
+name: /wine-quality-prediction
